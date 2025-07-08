@@ -127,9 +127,4 @@ This project analyzes deployment changes, predicts the likelihood of needing a r
 - Use the dashboard or API endpoints to analyze changes, assess risk, monitor deployments, and trigger rollbacks.
 - Retrain the risk model with your own data for improved accuracy.
 
-## License
 
-MIT
-=======
-# Deployment-Risk-Assessment-and-Rollback-Prediction
->>>>>>> ca2cb23adf2fee2510bf0bf8d4627c53c342f6ec
